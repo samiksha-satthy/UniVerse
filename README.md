@@ -1,4 +1,4 @@
-DESCRIPTION:
+**DESCRIPTION:**
 
 Developed an interactive map application using the JXMapViewer API to help prospective students explore over 10 universities in Ontario. The application integrates program offerings, university descriptions, and direct website links, enhancing accessibility and decision-making.
 
